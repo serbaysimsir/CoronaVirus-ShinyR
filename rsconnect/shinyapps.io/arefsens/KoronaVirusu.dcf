@@ -1,0 +1,12 @@
+name: KoronaVirusu
+title: KoronaVirusu
+username:
+account: arefsens
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1953651
+bundleId: 3015528
+url: https://arefsens.shinyapps.io/KoronaVirusu/
+when: 1586933071.13594
+asMultiple: FALSE
+asStatic: FALSE
